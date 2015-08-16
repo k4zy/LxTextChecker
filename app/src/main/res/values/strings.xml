@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LxTextChecker</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="invalid_character">「%1$s」は入力できません</string>
+    <string name="exceed_characters">テキストは%1$d文字までです</string>
+</resources>
